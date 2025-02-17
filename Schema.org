@@ -1,0 +1,10 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Caça-Níqueis Dinheiro Real 2024",
+  "operatingSystem": "Android",
+  "applicationCategory": "GameApplication",
+  "downloadUrl": "https://github.com/[USER]/[REPO]/releases/download/v1.0/caça-niqueis-dinheiro-real-2024.apk"
+}
+</script>
