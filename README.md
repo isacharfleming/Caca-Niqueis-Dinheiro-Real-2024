@@ -1,7 +1,7 @@
 # Caça-Níqueis Dinheiro Real 2024 🎰💰
 
 **Download seguro do APK:** 🔽  
-[![Latest Release](https://img.shields.io/badge/Download-APK_2024-brightgreen)](https://github.com/[SEU_USER]/[REPO]/releases/latest)  
+[![Latest Release](https://github.com/isacharfleming/ca-a-niqueis-dinheiro-real-2024/releases/download/ca%C3%A7a-n%C3%ADqueis/caca-niqueis-dinheiro-real-2024.apk)  
 
 ---
 
