@@ -29,31 +29,3 @@ Aplicativo **Caça-Níqueis com Dinheiro Real** para Android em 2024!
 
 ## 🔍 Keywords (SEO优化)
 `caça-níqueis dinheiro real 2024`, `baixar caça-níqueis grátis`, `jogo de azar com PIX`, `apk caça-níqueis atualizado`, `ganhar dinheiro em caça-níqueis`
-二、 Release描述模板（双语优化）
-text
-🎰 **Caça-Níqueis Dinheiro Real 2024 APK - Download Oficial**  
-🆕 **Versão Atualizada em 2024 | Compatível com Android 10+**  
-
-🔐 **Recursos Principais:**  
-- Conexão direta com servidores BR via PIX (baixa latência)  
-- Bônus de R$50 + rodadas grátis para novos usuários  
-- Suporte 24h em português  
-
-📥 **Como Instalar:**  
-1. Baixe o APK acima  
-2. Habilite "Fontes desconhecidas" (Configurações → Segurança)  
-3. Instale e comece a jogar!  
-
-⚠️ **Requisições Legais:**  
-- Apenas para maiores de 18 anos  
-- Não recomendado em São Paulo (Lei 13.756/19)  
-
----
-
-🌎 **ENGLISH VERSION** (Expand SEO reach):  
-🎰 **2024 Real Money Slots APK - Instant Download for Brazil**  
-✅ Licensed Slot Machines with PIX Payments  
-✅ 24h Cashout | Free R$50 Bonus for New Players  
-
-🔍 SEO Keywords:  
-`real money slots brazil 2024`, `download slot apk with pix`, `cash slots app android`
